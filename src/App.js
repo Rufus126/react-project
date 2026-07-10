@@ -1,8 +1,8 @@
-import Loby from "./Components/Loby";
+import Main from "./Components/Main";
 function App() {
   return (
     <>
-      <Loby />
+      <Main />
     </>
   );
 }
